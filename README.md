@@ -145,13 +145,6 @@ Want to help make this better? Great!
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the **MIT License**.
-See the [LICENSE](LICENSE) file for more info.
-
----
-
 ## 🙌 Thanks
 
 * **[GreatStack](https://www.youtube.com/@GreatStackDev)** for their awesome [Gemini Clone tutorial](https://youtu.be/0yboGn8errU?feature=shared).
